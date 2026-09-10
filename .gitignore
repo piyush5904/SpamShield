@@ -1,0 +1,16 @@
+# Trained model
+spamshield_model.pkl
+
+# Dataset
+SMSSpamCollection
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# VS Code
+.vscode/
